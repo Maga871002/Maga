@@ -42,7 +42,10 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-
+            dog Dog = new dog();
+            Dog.vvod();
+            Dog.vivod();
+            Console.ReadKey();
         }
     }
 }

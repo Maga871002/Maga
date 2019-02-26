@@ -1,0 +1,7 @@
+G:\Анастасия\Учёба\Практика 1 2019 года\1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+G:\Анастасия\Учёба\Практика 1 2019 года\1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+G:\Анастасия\Учёба\Практика 1 2019 года\1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+G:\Анастасия\Учёба\Практика 1 2019 года\1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+G:\Анастасия\Учёба\Практика 1 2019 года\1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\Анастасия\Учёба\Практика 1 2019 года\1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+G:\Анастасия\Учёба\Практика 1 2019 года\1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
